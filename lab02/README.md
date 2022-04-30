@@ -2,4 +2,4 @@
 
 ## Notebook sobre Java Estruturas
 
-[Notebook](notebook/lab-02-java-estruturas-ra246955.ipynb)
+[Notebook](notebook/lab02-java-estruturas-ra246955.ipynb)
